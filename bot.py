@@ -15,4 +15,4 @@ class Bot(commands.Bot):
         await self.process_commands(message)
 
 prp = Bot(command_prefix="!", description="Fun bot is fun", pm_help=True)
-prp.run("MzE5MjkwOTQzOTI2Njk3OTk0.DIC6pw.Qc5xLVSthGLWM5oDZ5Y_Gw1blNc")
+prp.run("hey look its my token")
